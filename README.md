@@ -7,7 +7,12 @@ When you're stuck on a bug or want a fresh perspective, Claude can consult Codex
 ## Install
 
 ```bash
-# Clone into your personal skills directory
+npx skills add EndlessHoper/codex-consult
+```
+
+Or manually:
+
+```bash
 git clone https://github.com/EndlessHoper/codex-consult ~/.claude/skills/codex-consult
 ```
 
